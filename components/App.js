@@ -1,9 +1,9 @@
 var contacts = [
   {
     id: 1,
-    firstName: 'Jan',
-    lastName: 'Nowak',
-    email: 'jan.nowak@example.com',
+    firstName: 'Robert',
+    lastName: 'Nowaczyk',
+    email: 'robert.nowaczyk@example.com',
   },
   {
     id: 2,
@@ -13,9 +13,9 @@ var contacts = [
   },
   {
     id: 3,
-    firstName: 'Zbigniew',
-    lastName: 'Koziol',
-    email: 'zbigniew.koziol@example.com',
+    firstName: 'Adam',
+    lastName: 'Nowak',
+    email: 'nowak@nowakadam.pl',
   }
 ];
 
